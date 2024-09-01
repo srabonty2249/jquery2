@@ -1,0 +1,26 @@
+.parallax-window {
+    min-height: 400px;
+    min-width: 200px;
+    background: transparent;
+}
+
+.parallax {
+    min-height: 400px;
+    min-width: 200px;
+    background: transparent;
+}
+.s_h{
+	padding-top: 20px;
+	color: white;
+}
+
+#owl-demo .item{
+  background: #42bdc2;
+  padding: 30px 0px;
+  margin: 10px;
+  color: #FFF;
+  -webkit-border-radius: 3px;
+  -moz-border-radius: 3px;
+  border-radius: 3px;
+  text-align: center;
+}
